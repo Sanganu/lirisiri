@@ -39,13 +39,12 @@ function takeaction()
       {
         console.log("\nInsufficient Arguments");
         console.log("\nPlease you one of the following formats");
-        console.log("\n$node liriv2.js my-tweets");
-        console.log("\n$node liriv2.js spotify-this-song I want it that way");
-        console.log("\n$node liriv2.js movie-this Bajirao Mastani");
-        console.log("\n$node liriv2.js do-what-it-says");
+        console.log("\n$node liri.js my-tweets");
+        console.log("\n$node liri.js spotify-this-song I want it that way");
+        console.log("\n$node liri.js movie-this Bajirao Mastani");
+        console.log("\n$node liri.js do-what-it-says");
         // Adding to Log file the Application exited on Insufficient arguments
         createlog(`Insufficient arrguments Application Stoped`);
-
       }
       else
       {
