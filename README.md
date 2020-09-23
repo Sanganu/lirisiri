@@ -12,18 +12,19 @@ _Features._
 1. axios package - api calls
 1. dotenv package - To store credentials
 
-##### Screen Shots:
-![twitter]()
-![dowhatitsays]()
-![logcommand]()
+### Screen Shots:
+![twitter](https://github.com/Sanganu/lirisiri/blob/master/Screenshot1.PNG)
+![dowhatitsays](https://github.com/Sanganu/lirisiri/blob/master/Screenshot2.PNG)
+![logcommand](https://github.com/Sanganu/lirisiri/blob/master/Screenshot3.png)
 
 
 
-###### Usage:
+#### Usage:
 * git clone https://github.com/Sanganu/lirisiri.git
 * npm i
 
 #### Developed By:
 Sangeetha
+
 Senior Tutor & Grader
 Trilogy Education.
