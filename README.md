@@ -3,17 +3,27 @@
 
 _Features._
 1. Twitter API
-2. OMDB
-3. Spotify API
-5. fs Package
-6. Creates Log file - for the app execution
-7. Create liricommand file - when ever the app is commands are generated in this file
-8. The Command file is used for do-what-it-says
-9. axios package - api calls
-10. dotenv package - To store credentials
+1. OMDB
+1. Spotify API
+1. fs Package
+1. Creates Log file - for the app execution
+1. Create liricommand file - when ever the app is commands are generated in this file
+1. The Command file is used for do-what-it-says
+1. axios package - api calls
+1. dotenv package - To store credentials
+
+##### Screen Shots:
+![twitter]()
+![dowhatitsays]()
+![logcommand]()
 
 
-####Developed By:
+
+###### Usage:
+* git clone https://github.com/Sanganu/lirisiri.git
+* npm i
+
+#### Developed By:
 Sangeetha
 Senior Tutor & Grader
 Trilogy Education.

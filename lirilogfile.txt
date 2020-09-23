@@ -1,4 +1,13 @@
 
-@8/23/2020  13:5:56:868: Application Started
-@8/23/2020  13:5:56:879: Insufficient arrguments Application Stoped
-@8/23/2020  13:5:56:879: Exiting Application
+@8/23/2020  13:48:12:205: Application Started
+@8/23/2020  13:48:12:208: Exiting Application
+@8/23/2020  13:48:12:210: Executing Commands liricommands.txt file for the user selection do-what-it-says
+@8/23/2020  13:48:12:425: 
+Call placed in Twitter API with credentials
+ [object Object], statuses/user_timeline
+@8/23/2020  13:48:12:545: Call placed in Spotify API with credentials
+ [object Object], type:track, query:Shape of you, limit:1
+@8/23/2020  13:48:12:768: Response from  spotify API 
+ [object Object]
+@8/23/2020  13:48:13:10: Response from  Twitter API  
+ [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]

@@ -172,12 +172,13 @@ function getmusic(album_name)
 function getmoviereview(mvname)
 {
         var omdb = require("request");
-        var queryurl = "http://www.omdbapi.com/?t="+mvname+"&y=&plot=short&apikey=40e9cece";
+        var queryurl = "http://www.omdbapi.com/?t="+mvname+"&plot=short&apikey=40e9cece";
         console.log("Movie Review");
          console.log('--------------------------------------------------------------------------');
          //Log file about placing an API call with the credentials info
         createlog(`Call placed in Omdb API with credentials\n ${queryurl}`);
          //log file
+         console.log(queryurl)
         omdb(queryurl, function(error, response, body) {
           if (!error && response.statusCode === 200)
           {
@@ -193,7 +194,7 @@ function getmoviereview(mvname)
                  //log file
           }
           else {
-            throw error;
+            console.log("Error in gettin API response",error);
                 //Log file about error resulted from omdbapi call
                 createlog(`Error from omdbapi API @  \n ${error}`);
                 //log file
