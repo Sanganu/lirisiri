@@ -24,7 +24,7 @@ _Features._
 * npm i
 
 #### Developed By:
-Sangeetha
+Sangeetha K
 
 Senior Tutor & Grader
 Trilogy Education.
