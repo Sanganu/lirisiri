@@ -2,12 +2,13 @@
 **Node.js App**
 
 _Features._
+
 1. Twitter API
 1. OMDB
 1. Spotify API
 1. fs Package
 1. Creates Log file - for the app execution
-1. Create liricommand file - when ever the app is commands are generated in this file
+1. Create liricommand file - when ever the app is executed the commands are generated in this file (used for do-what-it-says)
 1. The Command file is used for do-what-it-says
 1. axios package - api calls
 1. dotenv package - To store credentials
