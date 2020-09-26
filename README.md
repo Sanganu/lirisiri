@@ -16,7 +16,7 @@ _Features._
 ![twitter](https://github.com/Sanganu/lirisiri/blob/master/Screenshot1.PNG)
 ![dowhatitsays](https://github.com/Sanganu/lirisiri/blob/master/Screenshot2.PNG)
 ![logcommand](https://github.com/Sanganu/lirisiri/blob/master/Screenshot3.png)
-
+![movie&spotify](https://github.com/Sanganu/lirisiri/blob/master/Screenshot4.PNG)
 
 
 #### Usage:
